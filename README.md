@@ -16,9 +16,11 @@
 
 ---
 
-## 🔗 Acesse online (opcional)
+## 🔗 Acesse online
 
-Você pode publicar o projeto usando **GitHub Pages**, Netlify ou Vercel para deixá-lo online.
+O projeto está publicado no GitHub Pages e pode ser acessado neste link:
+
+[Amigo Secreto Online](https://vanderson6.github.io/Amigo-ecreto/)
 
 ---
 
@@ -26,4 +28,3 @@ Você pode publicar o projeto usando **GitHub Pages**, Netlify ou Vercel para de
 
 Vanderson Gomes  
 [GitHub](https://github.com/Vanderson6)
-
