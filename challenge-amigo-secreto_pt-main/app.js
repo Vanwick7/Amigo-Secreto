@@ -59,5 +59,3 @@ function sortearAmigo() {
     const resultado = document.getElementById("resultado");
     resultado.innerHTML = `🎉 O amigo secreto sorteado foi: <strong>${sorteado}</strong>`;
 }
-git config --global user.name "Vanderson6"
-git config --global user.email "vandersongomes169@gmail.com"
